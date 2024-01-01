@@ -1,0 +1,21 @@
+[4.382s] Invoking command in '/home/niklas/ros2_gui/src/my_gui': PYTHONPATH=/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_gui build --build-base /home/niklas/ros2_gui/build/my_gui/build install --record /home/niklas/ros2_gui/build/my_gui/install.log --single-version-externally-managed
+[5.726s] running egg_info
+[5.728s] writing ../../build/my_gui/my_gui.egg-info/PKG-INFO
+[5.729s] writing dependency_links to ../../build/my_gui/my_gui.egg-info/dependency_links.txt
+[5.730s] writing entry points to ../../build/my_gui/my_gui.egg-info/entry_points.txt
+[5.731s] writing requirements to ../../build/my_gui/my_gui.egg-info/requires.txt
+[5.731s] writing top-level names to ../../build/my_gui/my_gui.egg-info/top_level.txt
+[5.739s] reading manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[5.743s] writing manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[5.743s] running build
+[5.744s] running build_py
+[5.745s] running install
+[5.746s] running install_lib
+[5.752s] running install_data
+[5.754s] running install_egg_info
+[5.760s] removing '/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info' (and everything under it)
+[5.762s] Copying ../../build/my_gui/my_gui.egg-info to /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info
+[5.768s] running install_scripts
+[5.848s] Installing gui_node script to /home/niklas/ros2_gui/install/my_gui/lib/my_gui
+[5.850s] writing list of installed files to '/home/niklas/ros2_gui/build/my_gui/install.log'
+[5.990s] Invoked command in '/home/niklas/ros2_gui/src/my_gui' returned '0': PYTHONPATH=/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_gui build --build-base /home/niklas/ros2_gui/build/my_gui/build install --record /home/niklas/ros2_gui/build/my_gui/install.log --single-version-externally-managed

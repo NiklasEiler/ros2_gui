@@ -1,0 +1,37 @@
+[4.517s] Invoking command in '/home/niklas/ros2_gui/src/my_gui': PYTHONPATH=/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_gui build --build-base /home/niklas/ros2_gui/build/my_gui/build install --record /home/niklas/ros2_gui/build/my_gui/install.log --single-version-externally-managed
+[5.930s] running egg_info
+[5.932s] creating ../../build/my_gui/my_gui.egg-info
+[5.933s] writing ../../build/my_gui/my_gui.egg-info/PKG-INFO
+[5.934s] writing dependency_links to ../../build/my_gui/my_gui.egg-info/dependency_links.txt
+[5.934s] writing entry points to ../../build/my_gui/my_gui.egg-info/entry_points.txt
+[5.935s] writing requirements to ../../build/my_gui/my_gui.egg-info/requires.txt
+[5.935s] writing top-level names to ../../build/my_gui/my_gui.egg-info/top_level.txt
+[5.936s] writing manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[5.944s] reading manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[5.946s] writing manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[5.947s] running build
+[5.948s] running build_py
+[5.948s] creating /home/niklas/ros2_gui/build/my_gui/build
+[5.949s] creating /home/niklas/ros2_gui/build/my_gui/build/lib
+[5.949s] creating /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui
+[5.949s] copying my_gui/my_gui_node.py -> /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui
+[5.950s] copying my_gui/__init__.py -> /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui
+[5.950s] running install
+[5.952s] running install_lib
+[5.955s] creating /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui
+[5.955s] copying /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui/my_gui_node.py -> /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui
+[5.956s] copying /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui/__init__.py -> /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui
+[5.958s] byte-compiling /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py to my_gui_node.cpython-310.pyc
+[5.962s] byte-compiling /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/__init__.py to __init__.cpython-310.pyc
+[5.962s] running install_data
+[5.965s] creating /home/niklas/ros2_gui/install/my_gui/share/ament_index
+[5.965s] creating /home/niklas/ros2_gui/install/my_gui/share/ament_index/resource_index
+[5.966s] creating /home/niklas/ros2_gui/install/my_gui/share/ament_index/resource_index/packages
+[5.966s] copying resource/my_gui -> /home/niklas/ros2_gui/install/my_gui/share/ament_index/resource_index/packages
+[5.967s] copying package.xml -> /home/niklas/ros2_gui/install/my_gui/share/my_gui
+[5.967s] running install_egg_info
+[5.975s] Copying ../../build/my_gui/my_gui.egg-info to /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info
+[5.990s] running install_scripts
+[6.064s] Installing gui_node script to /home/niklas/ros2_gui/install/my_gui/lib/my_gui
+[6.065s] writing list of installed files to '/home/niklas/ros2_gui/build/my_gui/install.log'
+[6.212s] Invoked command in '/home/niklas/ros2_gui/src/my_gui' returned '0': PYTHONPATH=/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_gui build --build-base /home/niklas/ros2_gui/build/my_gui/build install --record /home/niklas/ros2_gui/build/my_gui/install.log --single-version-externally-managed
