@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/my_gui/my_gui.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_gui/my_gui.egg-info/dependency_links.txt
+writing entry points to ../../build/my_gui/my_gui.egg-info/entry_points.txt
+writing requirements to ../../build/my_gui/my_gui.egg-info/requires.txt
+writing top-level names to ../../build/my_gui/my_gui.egg-info/top_level.txt
+reading manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_gui/my_gui_node.py -> /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui
+running install
+running install_lib
+copying /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui/my_gui_node.py -> /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui
+byte-compiling /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py to my_gui_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/my_gui/my_gui.egg-info to /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gui_node script to /home/niklas/ros2_gui/install/my_gui/lib/my_gui
+writing list of installed files to '/home/niklas/ros2_gui/build/my_gui/install.log'

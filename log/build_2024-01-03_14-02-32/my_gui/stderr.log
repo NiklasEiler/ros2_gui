@@ -1,0 +1,5 @@
+  File "/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py", line 35
+    executor = MultiThreadedExecutor()        print("HMI preparation complete")
+                                              ^^^^^
+SyntaxError: invalid syntax
+

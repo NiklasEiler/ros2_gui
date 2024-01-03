@@ -1,0 +1,186 @@
+[0.000000] (-) TimerEvent: {}
+[0.001016] (my_gui) JobQueued: {'identifier': 'my_gui', 'dependencies': OrderedDict()}
+[0.002054] (my_gui) JobStarted: {'identifier': 'my_gui'}
+[0.099137] (-) TimerEvent: {}
+[0.200267] (-) TimerEvent: {}
+[0.301857] (-) TimerEvent: {}
+[0.403506] (-) TimerEvent: {}
+[0.504669] (-) TimerEvent: {}
+[0.605920] (-) TimerEvent: {}
+[0.707151] (-) TimerEvent: {}
+[0.808118] (-) TimerEvent: {}
+[0.909281] (-) TimerEvent: {}
+[1.010084] (-) TimerEvent: {}
+[1.110823] (-) TimerEvent: {}
+[1.211547] (-) TimerEvent: {}
+[1.312307] (-) TimerEvent: {}
+[1.413027] (-) TimerEvent: {}
+[1.513858] (-) TimerEvent: {}
+[1.615095] (-) TimerEvent: {}
+[1.719896] (-) TimerEvent: {}
+[1.821087] (-) TimerEvent: {}
+[1.922324] (-) TimerEvent: {}
+[2.025279] (-) TimerEvent: {}
+[2.126754] (-) TimerEvent: {}
+[2.233538] (-) TimerEvent: {}
+[2.334526] (-) TimerEvent: {}
+[2.435405] (-) TimerEvent: {}
+[2.536212] (-) TimerEvent: {}
+[2.637029] (-) TimerEvent: {}
+[2.738120] (-) TimerEvent: {}
+[2.839310] (-) TimerEvent: {}
+[2.941247] (-) TimerEvent: {}
+[3.042254] (-) TimerEvent: {}
+[3.143239] (-) TimerEvent: {}
+[3.244060] (-) TimerEvent: {}
+[3.344898] (-) TimerEvent: {}
+[3.445910] (-) TimerEvent: {}
+[3.557768] (-) TimerEvent: {}
+[3.664050] (-) TimerEvent: {}
+[3.766286] (-) TimerEvent: {}
+[3.871133] (-) TimerEvent: {}
+[3.978161] (-) TimerEvent: {}
+[4.085476] (-) TimerEvent: {}
+[4.186881] (-) TimerEvent: {}
+[4.287964] (-) TimerEvent: {}
+[4.399986] (-) TimerEvent: {}
+[4.501011] (-) TimerEvent: {}
+[4.602142] (-) TimerEvent: {}
+[4.703215] (-) TimerEvent: {}
+[4.814017] (-) TimerEvent: {}
+[4.915600] (-) TimerEvent: {}
+[5.017053] (-) TimerEvent: {}
+[5.120333] (-) TimerEvent: {}
+[5.227528] (-) TimerEvent: {}
+[5.329541] (-) TimerEvent: {}
+[5.434553] (-) TimerEvent: {}
+[5.536299] (-) TimerEvent: {}
+[5.653608] (-) TimerEvent: {}
+[5.756563] (-) TimerEvent: {}
+[5.861788] (-) TimerEvent: {}
+[5.966558] (-) TimerEvent: {}
+[6.071983] (-) TimerEvent: {}
+[6.173392] (-) TimerEvent: {}
+[6.275226] (-) TimerEvent: {}
+[6.377221] (-) TimerEvent: {}
+[6.478110] (-) TimerEvent: {}
+[6.585318] (-) TimerEvent: {}
+[6.687040] (-) TimerEvent: {}
+[6.788060] (-) TimerEvent: {}
+[6.889263] (-) TimerEvent: {}
+[6.990164] (-) TimerEvent: {}
+[7.091535] (-) TimerEvent: {}
+[7.193694] (-) TimerEvent: {}
+[7.302153] (-) TimerEvent: {}
+[7.408916] (-) TimerEvent: {}
+[7.511157] (-) TimerEvent: {}
+[7.612674] (-) TimerEvent: {}
+[7.713650] (-) TimerEvent: {}
+[7.814625] (-) TimerEvent: {}
+[7.915859] (-) TimerEvent: {}
+[8.016988] (-) TimerEvent: {}
+[8.118997] (-) TimerEvent: {}
+[8.233652] (-) TimerEvent: {}
+[8.336201] (-) TimerEvent: {}
+[8.438212] (-) TimerEvent: {}
+[8.539621] (-) TimerEvent: {}
+[8.640977] (-) TimerEvent: {}
+[8.741927] (-) TimerEvent: {}
+[8.843055] (-) TimerEvent: {}
+[8.944393] (-) TimerEvent: {}
+[9.045286] (-) TimerEvent: {}
+[9.146171] (-) TimerEvent: {}
+[9.247221] (-) TimerEvent: {}
+[9.348237] (-) TimerEvent: {}
+[9.449196] (-) TimerEvent: {}
+[9.553322] (-) TimerEvent: {}
+[9.655009] (-) TimerEvent: {}
+[9.765320] (-) TimerEvent: {}
+[9.877442] (-) TimerEvent: {}
+[9.978738] (-) TimerEvent: {}
+[10.079903] (-) TimerEvent: {}
+[10.181018] (-) TimerEvent: {}
+[10.282020] (-) TimerEvent: {}
+[10.385431] (-) TimerEvent: {}
+[10.486922] (-) TimerEvent: {}
+[10.568842] (my_gui) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/my_gui', 'build', '--build-base', '/home/niklas/ros2_gui/build/my_gui/build', 'install', '--record', '/home/niklas/ros2_gui/build/my_gui/install.log', '--single-version-externally-managed'], 'cwd': '/home/niklas/ros2_gui/src/my_gui', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'no_proxy': 'localhost,127.0.0.0/8,::1', 'USER': 'niklas', 'LC_TIME': 'de_DE.UTF-8', 'SSH_AGENT_PID': '2584', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/niklas', 'OLDPWD': '/home/niklas', 'NO_PROXY': 'localhost,127.0.0.0/8,::1', 'ROS_PYTHON_VERSION': '3', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'de_DE.UTF-8', 'SYSTEMD_EXEC_PID': '3503', 'XRDP_PULSE_SOURCE_SOCKET': 'xrdp_chansrv_audio_in_socket_10', 'XRDP_PULSE_SINK_SOCKET': 'xrdp_chansrv_audio_out_socket_10', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'PULSE_SCRIPT': '/etc/xrdp/pulse/default.pa', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/niklas/ros_3d/install:/home/niklas/ros2_gui/install:/home/niklas/ros2-stereo-camera-analyse/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'niklas', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/niklas-desktop:@/tmp/.ICE-unix/2706,unix/niklas-desktop:/tmp/.ICE-unix/2706', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'de_DE.UTF-8', 'XRDP_SOCKET_PATH': '/run/xrdp/sockdir', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/8a90bd93_e301_4c95_b631_a4f1acf43890', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':10.0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'GNOME', 'LC_TELEPHONE': 'de_DE.UTF-8', 'XMODIFIERS': '@im=ibus', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.100', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/niklas/ros_3d/install/my_pointcloud:/home/niklas/ros2-stereo-camera-analyse/install/my_image_processing:/home/niklas/ros2_gui/install/my_gui:/opt/ros/humble', 'UID': '1000', 'SHELL': '/bin/bash', 'LC_NAME': 'de_DE.UTF-8', 'QT_ACCESSIBILITY': '1', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'XRDP_SESSION': '1', 'LC_MEASUREMENT': 'de_DE.UTF-8', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'de_DE.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/niklas/ros2_gui/build/my_gui', 'LC_ALL': 'en_US.UTF-8', 'CLUTTER_IM_MODULE': 'ibus', 'XDG_DATA_DIRS': '/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:/home/niklas/ros_3d/install/my_pointcloud/lib/python3.10/site-packages:/home/niklas/ros2-stereo-camera-analyse/install/my_image_processing/lib/python3.10/site-packages:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'de_DE.UTF-8', 'LC_PAPER': 'de_DE.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[10.591460] (-) TimerEvent: {}
+[10.693285] (-) TimerEvent: {}
+[10.800012] (-) TimerEvent: {}
+[10.901539] (-) TimerEvent: {}
+[11.002520] (-) TimerEvent: {}
+[11.103497] (-) TimerEvent: {}
+[11.204357] (-) TimerEvent: {}
+[11.305407] (-) TimerEvent: {}
+[11.406537] (-) TimerEvent: {}
+[11.507485] (-) TimerEvent: {}
+[11.608685] (-) TimerEvent: {}
+[11.712092] (-) TimerEvent: {}
+[11.813057] (-) TimerEvent: {}
+[11.913848] (-) TimerEvent: {}
+[12.014834] (-) TimerEvent: {}
+[12.115805] (-) TimerEvent: {}
+[12.216688] (-) TimerEvent: {}
+[12.317531] (-) TimerEvent: {}
+[12.418298] (-) TimerEvent: {}
+[12.525912] (-) TimerEvent: {}
+[12.626649] (-) TimerEvent: {}
+[12.727364] (-) TimerEvent: {}
+[12.828115] (-) TimerEvent: {}
+[12.928966] (-) TimerEvent: {}
+[13.033390] (-) TimerEvent: {}
+[13.134615] (-) TimerEvent: {}
+[13.235541] (-) TimerEvent: {}
+[13.336361] (-) TimerEvent: {}
+[13.437185] (-) TimerEvent: {}
+[13.542340] (-) TimerEvent: {}
+[13.643661] (-) TimerEvent: {}
+[13.745099] (-) TimerEvent: {}
+[13.846216] (-) TimerEvent: {}
+[13.947319] (-) TimerEvent: {}
+[14.048668] (-) TimerEvent: {}
+[14.150544] (-) TimerEvent: {}
+[14.157439] (my_gui) StdoutLine: {'line': b'running egg_info\n'}
+[14.173317] (my_gui) StdoutLine: {'line': b'writing ../../build/my_gui/my_gui.egg-info/PKG-INFO\n'}
+[14.174714] (my_gui) StdoutLine: {'line': b'writing dependency_links to ../../build/my_gui/my_gui.egg-info/dependency_links.txt\n'}
+[14.176238] (my_gui) StdoutLine: {'line': b'writing entry points to ../../build/my_gui/my_gui.egg-info/entry_points.txt\n'}
+[14.177260] (my_gui) StdoutLine: {'line': b'writing requirements to ../../build/my_gui/my_gui.egg-info/requires.txt\n'}
+[14.178587] (my_gui) StdoutLine: {'line': b'writing top-level names to ../../build/my_gui/my_gui.egg-info/top_level.txt\n'}
+[14.207013] (my_gui) StdoutLine: {'line': b"reading manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'\n"}
+[14.220015] (my_gui) StdoutLine: {'line': b"writing manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'\n"}
+[14.221795] (my_gui) StdoutLine: {'line': b'running build\n'}
+[14.223801] (my_gui) StdoutLine: {'line': b'running build_py\n'}
+[14.238030] (my_gui) StdoutLine: {'line': b'copying my_gui/my_gui_node.py -> /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui\n'}
+[14.238813] (my_gui) StdoutLine: {'line': b'running install\n'}
+[14.239580] (my_gui) StdoutLine: {'line': b'running install_lib\n'}
+[14.244972] (my_gui) StdoutLine: {'line': b'copying /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui/my_gui_node.py -> /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui\n'}
+[14.255361] (my_gui) StdoutLine: {'line': b'byte-compiling /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py to my_gui_node.cpython-310.pyc\n'}
+[14.256630] (-) TimerEvent: {}
+[14.258989] (my_gui) StderrLine: {'line': b'  File "/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py", line 35\n'}
+[14.260115] (my_gui) StderrLine: {'line': b'    executor = MultiThreadedExecutor()        print("HMI preparation complete")\n'}
+[14.260825] (my_gui) StderrLine: {'line': b'                                              ^^^^^\n'}
+[14.266874] (my_gui) StderrLine: {'line': b'SyntaxError: invalid syntax\n'}
+[14.269827] (my_gui) StderrLine: {'line': b'\n'}
+[14.270585] (my_gui) StdoutLine: {'line': b'running install_data\n'}
+[14.271280] (my_gui) StdoutLine: {'line': b'running install_egg_info\n'}
+[14.286866] (my_gui) StdoutLine: {'line': b"removing '/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[14.289153] (my_gui) StdoutLine: {'line': b'Copying ../../build/my_gui/my_gui.egg-info to /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info\n'}
+[14.317455] (my_gui) StdoutLine: {'line': b'running install_scripts\n'}
+[14.357536] (-) TimerEvent: {}
+[14.433629] (my_gui) StdoutLine: {'line': b'Installing gui_node script to /home/niklas/ros2_gui/install/my_gui/lib/my_gui\n'}
+[14.438374] (my_gui) StdoutLine: {'line': b"writing list of installed files to '/home/niklas/ros2_gui/build/my_gui/install.log'\n"}
+[14.457705] (-) TimerEvent: {}
+[14.558973] (-) TimerEvent: {}
+[14.678612] (my_gui) CommandEnded: {'returncode': 0}
+[14.684175] (-) TimerEvent: {}
+[14.785233] (-) TimerEvent: {}
+[14.887287] (-) TimerEvent: {}
+[14.989228] (-) TimerEvent: {}
+[15.090355] (-) TimerEvent: {}
+[15.193446] (-) TimerEvent: {}
+[15.296793] (-) TimerEvent: {}
+[15.399306] (-) TimerEvent: {}
+[15.502635] (-) TimerEvent: {}
+[15.592901] (my_gui) JobEnded: {'identifier': 'my_gui', 'rc': 0}
+[15.603580] (-) TimerEvent: {}
+[15.606701] (-) EventReactorShutdown: {}

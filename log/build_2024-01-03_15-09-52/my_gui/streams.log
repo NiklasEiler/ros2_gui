@@ -1,0 +1,24 @@
+[5.102s] Invoking command in '/home/niklas/ros2_gui/src/my_gui': PYTHONPATH=/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_gui build --build-base /home/niklas/ros2_gui/build/my_gui/build install --record /home/niklas/ros2_gui/build/my_gui/install.log --single-version-externally-managed
+[6.504s] running egg_info
+[6.506s] writing ../../build/my_gui/my_gui.egg-info/PKG-INFO
+[6.508s] writing dependency_links to ../../build/my_gui/my_gui.egg-info/dependency_links.txt
+[6.509s] writing entry points to ../../build/my_gui/my_gui.egg-info/entry_points.txt
+[6.509s] writing requirements to ../../build/my_gui/my_gui.egg-info/requires.txt
+[6.510s] writing top-level names to ../../build/my_gui/my_gui.egg-info/top_level.txt
+[6.519s] reading manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[6.522s] writing manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[6.523s] running build
+[6.523s] running build_py
+[6.524s] copying my_gui/my_gui_node.py -> /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui
+[6.525s] running install
+[6.526s] running install_lib
+[6.529s] copying /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui/my_gui_node.py -> /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui
+[6.533s] byte-compiling /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py to my_gui_node.cpython-310.pyc
+[6.536s] running install_data
+[6.539s] running install_egg_info
+[6.545s] removing '/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info' (and everything under it)
+[6.547s] Copying ../../build/my_gui/my_gui.egg-info to /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info
+[6.553s] running install_scripts
+[6.644s] Installing gui_node script to /home/niklas/ros2_gui/install/my_gui/lib/my_gui
+[6.646s] writing list of installed files to '/home/niklas/ros2_gui/build/my_gui/install.log'
+[6.806s] Invoked command in '/home/niklas/ros2_gui/src/my_gui' returned '0': PYTHONPATH=/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_gui build --build-base /home/niklas/ros2_gui/build/my_gui/build install --record /home/niklas/ros2_gui/build/my_gui/install.log --single-version-externally-managed

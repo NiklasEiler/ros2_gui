@@ -1,0 +1,29 @@
+[10.574s] Invoking command in '/home/niklas/ros2_gui/src/my_gui': PYTHONPATH=/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_gui build --build-base /home/niklas/ros2_gui/build/my_gui/build install --record /home/niklas/ros2_gui/build/my_gui/install.log --single-version-externally-managed
+[14.157s] running egg_info
+[14.171s] writing ../../build/my_gui/my_gui.egg-info/PKG-INFO
+[14.173s] writing dependency_links to ../../build/my_gui/my_gui.egg-info/dependency_links.txt
+[14.174s] writing entry points to ../../build/my_gui/my_gui.egg-info/entry_points.txt
+[14.175s] writing requirements to ../../build/my_gui/my_gui.egg-info/requires.txt
+[14.176s] writing top-level names to ../../build/my_gui/my_gui.egg-info/top_level.txt
+[14.206s] reading manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[14.218s] writing manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'
+[14.220s] running build
+[14.235s] running build_py
+[14.236s] copying my_gui/my_gui_node.py -> /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui
+[14.237s] running install
+[14.237s] running install_lib
+[14.243s] copying /home/niklas/ros2_gui/build/my_gui/build/lib/my_gui/my_gui_node.py -> /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui
+[14.254s] byte-compiling /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py to my_gui_node.cpython-310.pyc
+[14.257s]   File "/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py", line 35
+[14.258s]     executor = MultiThreadedExecutor()        print("HMI preparation complete")
+[14.264s]                                               ^^^^^
+[14.266s] SyntaxError: invalid syntax
+[14.268s] 
+[14.268s] running install_data
+[14.269s] running install_egg_info
+[14.285s] removing '/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info' (and everything under it)
+[14.288s] Copying ../../build/my_gui/my_gui.egg-info to /home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info
+[14.315s] running install_scripts
+[14.432s] Installing gui_node script to /home/niklas/ros2_gui/install/my_gui/lib/my_gui
+[14.436s] writing list of installed files to '/home/niklas/ros2_gui/build/my_gui/install.log'
+[14.681s] Invoked command in '/home/niklas/ros2_gui/src/my_gui' returned '0': PYTHONPATH=/home/niklas/ros2_gui/build/my_gui/prefix_override:/home/niklas/ros2_gui/install/my_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_gui build --build-base /home/niklas/ros2_gui/build/my_gui/build install --record /home/niklas/ros2_gui/build/my_gui/install.log --single-version-externally-managed
