@@ -1,0 +1,133 @@
+[0.000000] (-) TimerEvent: {}
+[0.002798] (my_gui) JobQueued: {'identifier': 'my_gui', 'dependencies': OrderedDict()}
+[0.003334] (my_gui) JobStarted: {'identifier': 'my_gui'}
+[0.097868] (-) TimerEvent: {}
+[0.199141] (-) TimerEvent: {}
+[0.300877] (-) TimerEvent: {}
+[0.401859] (-) TimerEvent: {}
+[0.502845] (-) TimerEvent: {}
+[0.604025] (-) TimerEvent: {}
+[0.705987] (-) TimerEvent: {}
+[0.807387] (-) TimerEvent: {}
+[0.908929] (-) TimerEvent: {}
+[1.010682] (-) TimerEvent: {}
+[1.113282] (-) TimerEvent: {}
+[1.215257] (-) TimerEvent: {}
+[1.318412] (-) TimerEvent: {}
+[1.423541] (-) TimerEvent: {}
+[1.525320] (-) TimerEvent: {}
+[1.626474] (-) TimerEvent: {}
+[1.727608] (-) TimerEvent: {}
+[1.829167] (-) TimerEvent: {}
+[1.930763] (-) TimerEvent: {}
+[2.031788] (-) TimerEvent: {}
+[2.133255] (-) TimerEvent: {}
+[2.234196] (-) TimerEvent: {}
+[2.336000] (-) TimerEvent: {}
+[2.438194] (-) TimerEvent: {}
+[2.539215] (-) TimerEvent: {}
+[2.640729] (-) TimerEvent: {}
+[2.741959] (-) TimerEvent: {}
+[2.842821] (-) TimerEvent: {}
+[2.943858] (-) TimerEvent: {}
+[3.044668] (-) TimerEvent: {}
+[3.145602] (-) TimerEvent: {}
+[3.246380] (-) TimerEvent: {}
+[3.347173] (-) TimerEvent: {}
+[3.447938] (-) TimerEvent: {}
+[3.548770] (-) TimerEvent: {}
+[3.649822] (-) TimerEvent: {}
+[3.750632] (-) TimerEvent: {}
+[3.851385] (-) TimerEvent: {}
+[3.952209] (-) TimerEvent: {}
+[4.053148] (-) TimerEvent: {}
+[4.154251] (-) TimerEvent: {}
+[4.255488] (-) TimerEvent: {}
+[4.357054] (-) TimerEvent: {}
+[4.458744] (-) TimerEvent: {}
+[4.560102] (-) TimerEvent: {}
+[4.661296] (-) TimerEvent: {}
+[4.766340] (-) TimerEvent: {}
+[4.869253] (-) TimerEvent: {}
+[4.971253] (-) TimerEvent: {}
+[5.076969] (-) TimerEvent: {}
+[5.179593] (-) TimerEvent: {}
+[5.282336] (-) TimerEvent: {}
+[5.391754] (-) TimerEvent: {}
+[5.493765] (-) TimerEvent: {}
+[5.594792] (-) TimerEvent: {}
+[5.695611] (-) TimerEvent: {}
+[5.796400] (-) TimerEvent: {}
+[5.897196] (-) TimerEvent: {}
+[5.998073] (-) TimerEvent: {}
+[6.098910] (-) TimerEvent: {}
+[6.199749] (-) TimerEvent: {}
+[6.300595] (-) TimerEvent: {}
+[6.401366] (-) TimerEvent: {}
+[6.502268] (-) TimerEvent: {}
+[6.603440] (-) TimerEvent: {}
+[6.706365] (-) TimerEvent: {}
+[6.807212] (-) TimerEvent: {}
+[6.908270] (-) TimerEvent: {}
+[7.010527] (-) TimerEvent: {}
+[7.111374] (-) TimerEvent: {}
+[7.213684] (-) TimerEvent: {}
+[7.318198] (-) TimerEvent: {}
+[7.419502] (-) TimerEvent: {}
+[7.520846] (-) TimerEvent: {}
+[7.622494] (-) TimerEvent: {}
+[7.724218] (-) TimerEvent: {}
+[7.825483] (-) TimerEvent: {}
+[7.928145] (-) TimerEvent: {}
+[8.031381] (-) TimerEvent: {}
+[8.132634] (-) TimerEvent: {}
+[8.233589] (-) TimerEvent: {}
+[8.334338] (-) TimerEvent: {}
+[8.435186] (-) TimerEvent: {}
+[8.536523] (-) TimerEvent: {}
+[8.551215] (my_gui) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/my_gui', 'build', '--build-base', '/home/stereocamera/ros2_gui/build/my_gui/build', 'install', '--record', '/home/stereocamera/ros2_gui/build/my_gui/install.log', '--single-version-externally-managed'], 'cwd': '/home/stereocamera/ros2_gui/src/my_gui', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'stereocamera', 'LC_TIME': 'de_DE.UTF-8', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/stereocamera', 'OLDPWD': '/home/stereocamera', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'de_DE.UTF-8', 'SYSTEMD_EXEC_PID': '4801', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/stereocamera/ros2_stereo_camera_analyse/install:/home/stereocamera/ros2_3D/install:/home/stereocamera/ros2_gui/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'stereocamera', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'stereocamera', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/humble/bin:/home/stereocamera/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/stereocamera-desktop:@/tmp/.ICE-unix/2190,unix/stereocamera-desktop:/tmp/.ICE-unix/2190', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'de_DE.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/006bc95d_8e7b_4af6_b76f_9556cc0f99a0', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'de_DE.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.135', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/stereocamera/ros2_stereo_camera_analyse/install/my_image_processing:/home/stereocamera/ros2_3D/install/my_pointcloud:/home/stereocamera/ros2_gui/install/my_gui:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'de_DE.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'de_DE.UTF-8', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'de_DE.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/stereocamera/ros2_gui/build/my_gui', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/stereocamera/ros2_gui/build/my_gui/prefix_override:/home/stereocamera/ros2_gui/install/my_gui/lib/python3.10/site-packages:/home/stereocamera/ros2_stereo_camera_analyse/install/my_image_processing/lib/python3.10/site-packages:/home/stereocamera/ros2_3D/install/my_pointcloud/lib/python3.10/site-packages:/home/stereocamera/ros2_gui/install/my_gui/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'de_DE.UTF-8', 'LC_PAPER': 'de_DE.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[8.636741] (-) TimerEvent: {}
+[8.738102] (-) TimerEvent: {}
+[8.838872] (-) TimerEvent: {}
+[8.939808] (-) TimerEvent: {}
+[9.040645] (-) TimerEvent: {}
+[9.141382] (-) TimerEvent: {}
+[9.242276] (-) TimerEvent: {}
+[9.343001] (-) TimerEvent: {}
+[9.443730] (-) TimerEvent: {}
+[9.544528] (-) TimerEvent: {}
+[9.645246] (-) TimerEvent: {}
+[9.745869] (-) TimerEvent: {}
+[9.846553] (-) TimerEvent: {}
+[9.947172] (-) TimerEvent: {}
+[10.047780] (-) TimerEvent: {}
+[10.101060] (my_gui) StdoutLine: {'line': b'running egg_info\n'}
+[10.104214] (my_gui) StdoutLine: {'line': b'writing ../../build/my_gui/my_gui.egg-info/PKG-INFO\n'}
+[10.106056] (my_gui) StdoutLine: {'line': b'writing dependency_links to ../../build/my_gui/my_gui.egg-info/dependency_links.txt\n'}
+[10.106924] (my_gui) StdoutLine: {'line': b'writing entry points to ../../build/my_gui/my_gui.egg-info/entry_points.txt\n'}
+[10.107728] (my_gui) StdoutLine: {'line': b'writing requirements to ../../build/my_gui/my_gui.egg-info/requires.txt\n'}
+[10.108495] (my_gui) StdoutLine: {'line': b'writing top-level names to ../../build/my_gui/my_gui.egg-info/top_level.txt\n'}
+[10.116794] (my_gui) StdoutLine: {'line': b"reading manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'\n"}
+[10.120991] (my_gui) StdoutLine: {'line': b"writing manifest file '../../build/my_gui/my_gui.egg-info/SOURCES.txt'\n"}
+[10.121693] (my_gui) StdoutLine: {'line': b'running build\n'}
+[10.122103] (my_gui) StdoutLine: {'line': b'running build_py\n'}
+[10.124824] (my_gui) StdoutLine: {'line': b'copying my_gui/my_gui_node.py -> /home/stereocamera/ros2_gui/build/my_gui/build/lib/my_gui\n'}
+[10.126364] (my_gui) StdoutLine: {'line': b'running install\n'}
+[10.127468] (my_gui) StdoutLine: {'line': b'running install_lib\n'}
+[10.131043] (my_gui) StdoutLine: {'line': b'copying /home/stereocamera/ros2_gui/build/my_gui/build/lib/my_gui/my_gui_node.py -> /home/stereocamera/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui\n'}
+[10.134479] (my_gui) StdoutLine: {'line': b'byte-compiling /home/stereocamera/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui/my_gui_node.py to my_gui_node.cpython-310.pyc\n'}
+[10.138583] (my_gui) StdoutLine: {'line': b'running install_data\n'}
+[10.141229] (my_gui) StdoutLine: {'line': b'running install_egg_info\n'}
+[10.147693] (my_gui) StdoutLine: {'line': b"removing '/home/stereocamera/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[10.148202] (-) TimerEvent: {}
+[10.149527] (my_gui) StdoutLine: {'line': b'Copying ../../build/my_gui/my_gui.egg-info to /home/stereocamera/ros2_gui/install/my_gui/lib/python3.10/site-packages/my_gui-0.0.0-py3.10.egg-info\n'}
+[10.156475] (my_gui) StdoutLine: {'line': b'running install_scripts\n'}
+[10.235635] (my_gui) StdoutLine: {'line': b'Installing gui_node script to /home/stereocamera/ros2_gui/install/my_gui/lib/my_gui\n'}
+[10.238035] (my_gui) StdoutLine: {'line': b"writing list of installed files to '/home/stereocamera/ros2_gui/build/my_gui/install.log'\n"}
+[10.248496] (-) TimerEvent: {}
+[10.349665] (-) TimerEvent: {}
+[10.368115] (my_gui) CommandEnded: {'returncode': 0}
+[10.468245] (-) TimerEvent: {}
+[10.569311] (-) TimerEvent: {}
+[10.659776] (my_gui) JobEnded: {'identifier': 'my_gui', 'rc': 0}
+[10.662452] (-) EventReactorShutdown: {}
